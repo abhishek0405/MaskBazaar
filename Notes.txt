@@ -1,0 +1,6 @@
+1)pipenv shell to enter virtual env(do this where pipfile present ie root dir)
+DO ALL AFTER ENTERING THE VIRTUAL ENV ONLY
+2)pipenv install django (use pipenv not pip)
+3)django-admin gives list of commands
+4)django-admin startproject <projectname> //new folder is created.
+4) cd and python manage.py runserver
